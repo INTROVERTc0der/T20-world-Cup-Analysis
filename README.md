@@ -12,21 +12,6 @@ The steps include:
 
 ---
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Project Workflow](#project-workflow)
-- [Technologies Used](#technologies-used)
-- [Data Sources](#data-sources)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Key Insights](#key-insights)
-- [Future Work](#future-work)
-- [License](#license)
-
----
-
 ## Project Workflow
 
 1. **Web Scraping**: 
@@ -49,7 +34,7 @@ The steps include:
 ## Technologies Used
 
 - **Python**: For web scraping, data cleaning, and analysis.
-  - Libraries: `BeautifulSoup`, `requests`, `pandas`, `matplotlib`, etc.
+  - Libraries: `BeautifulSoup`, `requests`, `pandas` etc.
 - **Power BI**: For data visualization and report creation.
 - **Pandas**: For data manipulation and preprocessing.
 - **BeautifulSoup**: For web scraping cricket data.
@@ -72,5 +57,5 @@ Ensure you have Python and Power BI installed on your system.
 ### Steps:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/t20-world-cup-data-analysis.git
+   git clone https://github.com/INTROVERc0der/t20-world-cup-data-analysis.git
    cd t20-world-cup-data-analysis
